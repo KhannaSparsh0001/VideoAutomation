@@ -1,0 +1,19 @@
+timeline:
+
+
+as of now a very manual and basic has to be done and so that i can actually use, then GUI can be developed.
+
+
+code strudcture:
+gui
+youtube api class shit
+with error resolution
+rag based system.
+ai models | gemni api
+
+for gui beeware wud be used | browswers will be implemented for a request module and for file mabager will be implemented | plugin support will be implemented, nd building from scrath too..
+
+
+docs 
+install guide
+licesne
