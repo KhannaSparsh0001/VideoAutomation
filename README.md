@@ -6,3 +6,4 @@
 
 ``` README has to be designed. 
 
+``` The project is taking longer than expected 
